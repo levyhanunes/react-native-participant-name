@@ -2,6 +2,10 @@
 
 This project is a mobile application developed in React Native with Expo, allowing you to create an event attendance list. With this application, you can add participants, remove them, and view the updated list in real-time.
 
+**Preview:**
+
+[![Preview](https://github.com/levyhanunes/react-native-participant-name/blob/main/assets/56304278/d20bbf0a-cdca-4e59-ae8d-5c5a985c69a9.gif)](https://github.com/levyhanunes/react-native-participant-name/blob/main/assets/56304278/d20bbf0a-cdca-4e59-ae8d-5c5a985c69a9.gif)
+
 ## Features and Functionality
 
 - **Add Participants**: Enter a participant's name in a text field and add them to the attendance list.
